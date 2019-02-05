@@ -1,0 +1,6 @@
+*.psess
+*.vsp
+/src/PerformanceDemo/obj
+/src/PerformanceDemo/bin
+*.diagsession
+/src/packages
